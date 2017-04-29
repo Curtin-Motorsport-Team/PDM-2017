@@ -56,74 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BYVOXDIV
 
 [Document2]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Public Documents\Library\Miscellaneous Devices.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document3]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Public Documents\Library\IR Rectifier - Schottky.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Public Documents\Library\IR Discrete MOSFET - Power.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Public Documents\Library\Miscellaneous Connectors.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=PDM Mk 21 - Mini.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document3]
 DocumentPath=PDM Mk21 - Mini.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document4]
 DocumentPath=PDM Mk21 - Mini.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MMMOJBLM
 
-[Document9]
+[Document5]
 DocumentPath=PDM Mk21 - Mini.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KWNIXOQB
 
-[Document10]
+[Document6]
 DocumentPath=PDM Mk 21 - Mini.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
